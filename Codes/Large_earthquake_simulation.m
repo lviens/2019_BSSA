@@ -22,7 +22,7 @@ close all
 clc
 
 %% Folders
-dir_ini = '/Users/loic/Documents/DONET_simuls/Example_Github';
+dir_ini = '../Data';
 dir_eq = [dir_ini  '/Earthquake/']; % Earthquake data
 dir_GF = [dir_ini '/GFs/' ]; % IRFs
 
