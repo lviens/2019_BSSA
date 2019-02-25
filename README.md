@@ -1,8 +1,8 @@
 # Codes to reproduce some of the results of Viens and Denolle (Submitted to BSSA)
 
-- The Matlab codes in the "Codes" folder reproduce the waveforms for the NAGH and KNHH stations presented in Figure 8 as well as Figures 4a and 4c. <br/>
+Markup : - The Matlab codes in the "Codes" folder reproduce the waveforms for the NAGH and KNHH stations presented in Figure 8 as well as Figures 4a and 4c. <br/>
 
-- The Codes folder contains three Matlab codes: 
+Markup : - The Codes folder contains three Matlab codes: 
  - The RS_spectra.m code is a function to compute response spectra.
  - The func_readsac.m code is a function to read sac files. 
  - The Large_earthquake_simulation.m is the main code and simulates the 2004 Mw 7.2 Off the Kii peninsula earthquake using a simple elliptic-like source model. The code produces three plots: 
