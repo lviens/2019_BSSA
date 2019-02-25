@@ -4,3 +4,4 @@
 
 * The Codes folder contains three Matlab codes: 
 
+ - The RS_spectra.m code is a function to compute response spectra.
