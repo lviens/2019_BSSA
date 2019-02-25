@@ -12,7 +12,7 @@
   
 * The **Data** folder contains: 
   - The **GFs** folder: Z-Z IRFs, which have been calibrated to absolute amplitude using a Mw 5.5 event.  
-  - The **Earthquake** folder: Recoreded vertical waveforms from the Mw 7.2 earthquake. 
+  - The **Earthquake** folder: Recorded vertical waveforms from the Mw 7.2 earthquake. 
   - The **Meta_data.mat** file contains the latitude and longitude of the stations. 
   - All the waveforms have a 10 Hz sampling rate and have been bandpass filtered between 4 and 10 s using a four-pole and two-pass Butterworth filter. 
   
