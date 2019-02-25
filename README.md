@@ -6,7 +6,7 @@
   - The RS_spectra.m code is a function to compute response spectra.
   - The func_readsac.m code is a function to read sac files. 
   - The Large_earthquake_simulation.m is the main code and simulates the 2004 Mw 7.2 Off the Kii peninsula earthquake using a simple elliptic-like source model. The code produces three plots: 
-    1) The compari2017_GJIson between the simulated and observed waveforms. 
+    1) The comparison between the simulated and observed waveforms. 
     2) The amplitude of the moment rate functions over the fault plane as well as the total moment rate function. 
     3) The comparison between the observed and simulated response spectra. 
   
@@ -16,4 +16,4 @@
   - The Meta_data.mat file contains the latitude and longitude of the stations. 
   
   
-* The Python codes to compute impulse response functions (IRFs) are available at: https://github.com/lviens/
+* The Python codes to compute impulse response functions (IRFs) are available at: https://github.com/lviens/2017_GJI
