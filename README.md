@@ -6,5 +6,6 @@ Codes to reproduce some of the results of Viens and Denolle (Submitted to BSSA).
   1) The comparison between the simulated and observed waveforms. <br/>
   2) The amplitude of the moment rate functions over the fault plane as well as the total moment rate function. <br/>
   3) The comparison between the observed and simulated response spectra. <br/>
-- The python codes to compute impulse response functions (IRFs) are available at: https://github.com/lviens/2017_GJI <br/>
-- The matlab codes to compute spectral accelerations (SA) are available at: https://github.com/lviens/Response_spectra <br/>
+  
+  
+- The Python codes to compute impulse response functions (IRFs) are available at: https://github.com/lviens/2017_GJI <br/>
