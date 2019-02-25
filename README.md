@@ -11,9 +11,9 @@
     3) The comparison between the observed and simulated response spectra. 
   
 * The **Data** folder contains: 
-  - the **GFs** folder: Z-Z IRFs, which have been calibrated to absolute amplitude using a Mw 5.5 event.  
-  - the **Earthquake** folder: Vertical waveforms from the Mw 7.2 earthquake. All the waveforms have a 10 Hz sampling rate and have been bandpass filtered between 4 and 10 s using a four-pole and two-pass Butterworth filter. 
+  - The **GFs** folder: Z-Z IRFs, which have been calibrated to absolute amplitude using a Mw 5.5 event.  
+  - The **Earthquake** folder: Recoreded vertical waveforms from the Mw 7.2 earthquake. 
   - The **Meta_data.mat** file contains the latitude and longitude of the stations. 
-  
+  - All the waveforms have a 10 Hz sampling rate and have been bandpass filtered between 4 and 10 s using a four-pole and two-pass Butterworth filter. 
   
 * The Python codes to compute impulse response functions (IRFs) are available at: https://github.com/lviens/2017_GJI
