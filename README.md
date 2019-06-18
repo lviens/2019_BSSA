@@ -1,4 +1,4 @@
-# Codes to reproduce some of the results of Viens and Denolle (BSSA, 2019)
+# Codes to reproduce some of the results of Viens and Denolle (2019, BSSA)
 
 * The Matlab codes in the "Codes" folder reproduce the waveforms for the NAGH and KNHH stations presented in Figure 8 as well as Figures 4a and 4c.
 
