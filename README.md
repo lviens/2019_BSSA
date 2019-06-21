@@ -1,5 +1,7 @@
 # Codes to reproduce some of the results of Viens and Denolle (2019, BSSA)
 
+* The paper is available at https://pubs.geoscienceworld.org/ssa/bssa/article/571631/long-period-ground-motions-from-past-and-virtual
+
 * The Matlab codes in the "Codes" folder reproduce the waveforms for the NAGH and KNHH stations presented in Figure 8 as well as Figures 4a and 4c.
 
 * The **Codes** folder contains three Matlab codes: 
